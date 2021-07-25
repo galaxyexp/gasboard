@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/galaxyexp/gasboard/issues"
   },
-  "homepage": "https://github.com/galaxyexp/gasboard#readme"
+  "homepage": "https://github.com/galaxyexp/gasboard#readme",
+  "dependencies": {
+    "tslint": "^6.1.3"
+  }
 }
